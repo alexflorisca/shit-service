@@ -1,0 +1,22 @@
+{
+  "name": "nowtv-assurance-service-status",
+  "version": "0.0.0",
+  "description": "NowTV Assurance - Service Status",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sky-uk/nowtv-assurance-service-status.git"
+  },
+  "author": "NowTV Assurance Team",
+  "engines": {
+    "node": "5.8.0",
+    "npm": "3.3.12"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
